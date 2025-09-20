@@ -5,7 +5,7 @@ const Header = ({ onLanguageChange, currentLanguage }) => {
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top">
       <div className="container">
         <a className="navbar-brand" href="#home">
-          <span className="fas fa-leaf me-2"></span>KrishiMitra
+          <span className="fas fa-leaf me-2"></span>Agro Help
         </a>
         
         <div className="language-selector">
